@@ -1,0 +1,1526 @@
+Jan 05 15:40 : exception: Failed to open '/home/corb/.config/mpd/state': No such file or directory
+Jan 05 15:40 : update: added /DieAKing.wav
+Jan 05 15:40 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:40 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:40 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:40 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 05 15:43 : player: played "DieAKing.wav"
+Jan 05 15:43 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 05 15:43 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:46 : player: played "DieAKing.wav"
+Jan 05 15:46 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 05 15:46 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 05 15:46 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 05 15:47 : exception: Failed to commit /home/corb/.config/mpd/state: File exists
+Jan 05 15:47 : player: played "DieAKing.wav"
+Jan 05 15:47 : player: played "DieAKing.wav"
+Jan 05 15:47 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 05 15:47 : player: played "DieAKing.wav"
+Jan 05 15:51 : player: played "DieAKing.wav"
+Jan 05 15:51 : player: played "DieAKing.wav"
+Jan 05 15:51 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:51 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:51 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:51 : player: played "DieAKing.wav"
+Jan 05 15:52 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:52 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:52 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:52 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:52 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 15:52 : player: played "DieAKing.wav"
+Jan 05 15:53 : player: played "DieAKing.wav"
+Jan 05 15:55 : player: played "DieAKing.wav"
+Jan 05 15:56 : player: played "DieAKing.wav"
+Jan 05 15:57 : player: played "DieAKing.wav"
+Jan 05 16:01 : update: added /IChoseViolence.wav
+Jan 05 16:01 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 16:01 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:01 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:01 : player: problems opening audio device while playing "IChoseViolence.wav"
+Jan 05 16:09 : update: added /ShiftyBooMansion.wav
+Jan 05 16:09 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 16:09 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:09 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:15 : player: played "ShiftyBooMansion.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:15 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:15 : player: problems opening audio device while playing "ShiftyBooMansion.wav"
+Jan 05 16:19 : player: played "ShiftyBooMansion.wav"
+Jan 05 16:28 : update: added /ABossApproaches.wav
+Jan 05 16:28 : update: added /8LeggedLuminaryLeviathan.wav
+Jan 05 16:28 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 05 16:28 : player: played "ABossApproaches.wav"
+Jan 05 16:49 : update: added /DivineIntervention.wav
+Jan 05 16:49 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 16:49 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:49 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 16:49 : player: problems opening audio device while playing "DivineIntervention.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:58 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:58 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:58 : player: played "DivineIntervention.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : player: problems opening audio device while playing "DivineIntervention.wav"
+Jan 05 17:59 : player: played "DivineIntervention.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : player: problems opening audio device while playing "DivineIntervention.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : player: played "DivineIntervention.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : player: problems opening audio device while playing "DivineIntervention.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 17:59 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 05 18:00 : player: played "ShiftyBooMansion.wav"
+Jan 05 18:02 : player: played "ABossApproaches.wav"
+Jan 05 18:09 : player: played "ShiftyBooMansion.wav"
+Jan 05 18:12 : player: played "8LeggedLuminaryLeviathan.wav"
+Jan 05 20:40 : player: played "ShiftyBooMansion.wav"
+Jan 06 00:27 : player: played "ShiftyBooMansion.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : player: problems opening audio device while playing "DieAKing.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:40 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 06 12:41 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 07 01:19 : player: played "ShiftyBooMansion.wav"
+Jan 08 01:37 : player: played "ShiftyBooMansion.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:54 : exception: Failed to open "default detected output" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 08 18:55 : player: played "ShiftyBooMansion.wav"
+Jan 08 18:59 : player: played "ShiftyBooMansion.wav"
+Jan 08 19:02 : player: played "DieAKing.wav"
+Jan 08 19:05 : player: played "IChoseViolence.wav"
+Jan 08 19:08 : player: played "ShiftyBooMansion.wav"
+Jan 08 19:12 : player: played "8LeggedLuminaryLeviathan.wav"
+Jan 08 19:12 : player: played "ABossApproaches.wav"
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : update: added /Eternal.wav
+Jan 08 19:21 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 19:21 : player: played "Eternal.wav"
+Jan 08 20:12 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 20:12 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 20:12 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 20:12 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 08 20:51 : player: played "Eternal.wav"
+Jan 09 01:27 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 09 01:27 : update: added /SteamGardens.wav
+Jan 09 01:27 : exception: Failed to open /home/corb/.config/mpd/playlists: No such file or directory
+Jan 09 01:28 : player: played "SteamGardens.wav"
+Jan 16 18:59 : event: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 18:59 : state_file: Loading state file /home/corb/.config/mpd/state
+Jan 16 18:59 : client: [0] opened from 127.0.0.1:45154
+Jan 16 18:59 : client: [0] process command "status"
+Jan 16 18:59 : client: [0] command returned 0
+Jan 16 18:59 : client: [0] process command "currentsong"
+Jan 16 18:59 : client: [0] command returned 0
+Jan 16 18:59 : client: [0] process command "close"
+Jan 16 18:59 : client: [0] command returned 4
+Jan 16 18:59 : client: [0] closed
+Jan 16 18:59 : client: [1] opened from 127.0.0.1:45156
+Jan 16 18:59 : client: [1] process command "status"
+Jan 16 18:59 : client: [1] command returned 0
+Jan 16 18:59 : client: [1] process command "currentsong"
+Jan 16 18:59 : client: [1] command returned 0
+Jan 16 18:59 : client: [1] process command "close"
+Jan 16 18:59 : client: [1] command returned 4
+Jan 16 18:59 : client: [1] closed
+Jan 16 18:59 : client: [2] opened from 127.0.0.1:45160
+Jan 16 18:59 : client: [2] process command "status"
+Jan 16 18:59 : client: [2] command returned 0
+Jan 16 18:59 : client: [2] process command "currentsong"
+Jan 16 18:59 : client: [2] command returned 0
+Jan 16 18:59 : client: [2] process command "close"
+Jan 16 18:59 : client: [2] command returned 4
+Jan 16 18:59 : client: [2] closed
+Jan 16 18:59 : client: [3] opened from 127.0.0.1:45162
+Jan 16 18:59 : client: [3] process command "status"
+Jan 16 18:59 : client: [3] command returned 0
+Jan 16 18:59 : client: [3] process command "currentsong"
+Jan 16 18:59 : client: [3] command returned 0
+Jan 16 18:59 : client: [3] process command "close"
+Jan 16 18:59 : client: [3] command returned 4
+Jan 16 18:59 : client: [3] closed
+Jan 16 18:59 : client: [4] opened from 127.0.0.1:45164
+Jan 16 18:59 : client: [4] process command "status"
+Jan 16 18:59 : client: [4] command returned 0
+Jan 16 18:59 : client: [4] process command "currentsong"
+Jan 16 18:59 : client: [4] command returned 0
+Jan 16 18:59 : client: [4] process command "close"
+Jan 16 18:59 : client: [4] command returned 4
+Jan 16 18:59 : client: [4] closed
+Jan 16 18:59 : client: [5] opened from 127.0.0.1:45166
+Jan 16 18:59 : client: [5] process command "status"
+Jan 16 18:59 : client: [5] command returned 0
+Jan 16 18:59 : client: [5] process command "currentsong"
+Jan 16 18:59 : client: [5] command returned 0
+Jan 16 18:59 : client: [5] process command "close"
+Jan 16 18:59 : client: [5] command returned 4
+Jan 16 18:59 : client: [5] closed
+Jan 16 18:59 : client: [6] opened from 127.0.0.1:45168
+Jan 16 18:59 : client: [6] process command "status"
+Jan 16 18:59 : client: [6] command returned 0
+Jan 16 18:59 : client: [6] process command "currentsong"
+Jan 16 18:59 : client: [6] command returned 0
+Jan 16 18:59 : client: [6] process command "close"
+Jan 16 18:59 : client: [6] command returned 4
+Jan 16 18:59 : client: [6] closed
+Jan 16 18:59 : client: [7] opened from 127.0.0.1:45170
+Jan 16 18:59 : client: [7] process command "status"
+Jan 16 18:59 : client: [7] command returned 0
+Jan 16 18:59 : client: [7] process command "currentsong"
+Jan 16 18:59 : client: [7] command returned 0
+Jan 16 18:59 : client: [7] process command "close"
+Jan 16 18:59 : client: [7] command returned 4
+Jan 16 18:59 : client: [7] closed
+Jan 16 18:59 : client: [8] opened from 127.0.0.1:45172
+Jan 16 18:59 : client: [8] process command "status"
+Jan 16 18:59 : client: [8] command returned 0
+Jan 16 18:59 : client: [8] process command "currentsong"
+Jan 16 18:59 : client: [8] command returned 0
+Jan 16 18:59 : client: [8] process command "close"
+Jan 16 18:59 : client: [8] command returned 4
+Jan 16 18:59 : client: [8] closed
+Jan 16 18:59 : client: [9] opened from 127.0.0.1:45174
+Jan 16 18:59 : client: [9] process command "status"
+Jan 16 18:59 : client: [9] command returned 0
+Jan 16 18:59 : client: [9] process command "currentsong"
+Jan 16 18:59 : client: [9] command returned 0
+Jan 16 18:59 : client: [9] process command "close"
+Jan 16 18:59 : client: [9] command returned 4
+Jan 16 18:59 : client: [9] closed
+Jan 16 18:59 : client: [10] opened from 127.0.0.1:45176
+Jan 16 18:59 : client: [10] process command "status"
+Jan 16 18:59 : client: [10] command returned 0
+Jan 16 18:59 : client: [10] process command "currentsong"
+Jan 16 18:59 : client: [10] command returned 0
+Jan 16 18:59 : client: [10] process command "close"
+Jan 16 18:59 : client: [10] command returned 4
+Jan 16 18:59 : client: [10] closed
+Jan 16 18:59 : client: [11] opened from 127.0.0.1:45178
+Jan 16 18:59 : client: [11] process command "status"
+Jan 16 18:59 : client: [11] command returned 0
+Jan 16 18:59 : client: [11] process command "currentsong"
+Jan 16 18:59 : client: [11] command returned 0
+Jan 16 18:59 : client: [11] process command "close"
+Jan 16 18:59 : client: [11] command returned 4
+Jan 16 18:59 : client: [11] closed
+Jan 16 18:59 : client: [12] opened from 127.0.0.1:45180
+Jan 16 18:59 : client: [12] process command "status"
+Jan 16 18:59 : client: [12] command returned 0
+Jan 16 18:59 : client: [12] process command "currentsong"
+Jan 16 18:59 : client: [12] command returned 0
+Jan 16 18:59 : client: [12] process command "close"
+Jan 16 18:59 : client: [12] command returned 4
+Jan 16 18:59 : client: [12] closed
+Jan 16 18:59 : client: [13] opened from 127.0.0.1:45182
+Jan 16 18:59 : client: [13] process command "status"
+Jan 16 18:59 : client: [13] command returned 0
+Jan 16 18:59 : client: [13] process command "currentsong"
+Jan 16 18:59 : client: [13] command returned 0
+Jan 16 18:59 : client: [13] process command "close"
+Jan 16 18:59 : client: [13] command returned 4
+Jan 16 18:59 : client: [13] closed
+Jan 16 18:59 : client: [14] opened from 127.0.0.1:45184
+Jan 16 18:59 : client: [14] process command "status"
+Jan 16 18:59 : client: [14] command returned 0
+Jan 16 18:59 : client: [14] process command "currentsong"
+Jan 16 18:59 : client: [14] command returned 0
+Jan 16 18:59 : client: [14] process command "close"
+Jan 16 18:59 : client: [14] command returned 4
+Jan 16 18:59 : client: [14] closed
+Jan 16 18:59 : client: [15] opened from 127.0.0.1:45186
+Jan 16 18:59 : client: [15] process command "status"
+Jan 16 18:59 : client: [15] command returned 0
+Jan 16 18:59 : client: [15] process command "currentsong"
+Jan 16 18:59 : client: [15] command returned 0
+Jan 16 18:59 : client: [15] process command "close"
+Jan 16 18:59 : client: [15] command returned 4
+Jan 16 18:59 : client: [15] closed
+Jan 16 18:59 : client: [16] opened from 127.0.0.1:45188
+Jan 16 18:59 : client: [16] process command "status"
+Jan 16 18:59 : client: [16] command returned 0
+Jan 16 18:59 : client: [16] process command "currentsong"
+Jan 16 18:59 : client: [16] command returned 0
+Jan 16 18:59 : client: [16] process command "close"
+Jan 16 18:59 : client: [16] command returned 4
+Jan 16 18:59 : client: [16] closed
+Jan 16 18:59 : client: [17] opened from 127.0.0.1:45190
+Jan 16 18:59 : client: [17] process command "status"
+Jan 16 18:59 : client: [17] command returned 0
+Jan 16 18:59 : client: [17] process command "currentsong"
+Jan 16 18:59 : client: [17] command returned 0
+Jan 16 18:59 : client: [17] process command "close"
+Jan 16 18:59 : client: [17] command returned 4
+Jan 16 18:59 : client: [17] closed
+Jan 16 18:59 : client: [18] opened from 127.0.0.1:45192
+Jan 16 18:59 : client: [18] process command "status"
+Jan 16 18:59 : client: [18] command returned 0
+Jan 16 18:59 : client: [18] process command "currentsong"
+Jan 16 18:59 : client: [18] command returned 0
+Jan 16 18:59 : client: [18] process command "close"
+Jan 16 18:59 : client: [18] command returned 4
+Jan 16 18:59 : client: [18] closed
+Jan 16 18:59 : client: [19] opened from 127.0.0.1:45194
+Jan 16 18:59 : client: [19] process command "status"
+Jan 16 18:59 : client: [19] command returned 0
+Jan 16 18:59 : client: [19] process command "currentsong"
+Jan 16 18:59 : client: [19] command returned 0
+Jan 16 18:59 : client: [19] process command "close"
+Jan 16 18:59 : client: [19] command returned 4
+Jan 16 18:59 : client: [19] closed
+Jan 16 18:59 : client: [20] opened from 127.0.0.1:45196
+Jan 16 18:59 : client: [20] process command "status"
+Jan 16 18:59 : client: [20] command returned 0
+Jan 16 18:59 : client: [20] process command "currentsong"
+Jan 16 18:59 : client: [20] command returned 0
+Jan 16 18:59 : client: [20] process command "close"
+Jan 16 18:59 : client: [20] command returned 4
+Jan 16 18:59 : client: [20] closed
+Jan 16 18:59 : client: [21] opened from 127.0.0.1:45198
+Jan 16 18:59 : client: [21] process command "status"
+Jan 16 18:59 : client: [21] command returned 0
+Jan 16 18:59 : client: [21] process command "currentsong"
+Jan 16 18:59 : client: [21] command returned 0
+Jan 16 18:59 : client: [21] process command "close"
+Jan 16 18:59 : client: [21] command returned 4
+Jan 16 18:59 : client: [21] closed
+Jan 16 18:59 : client: [22] opened from 127.0.0.1:45200
+Jan 16 18:59 : client: [22] process command "status"
+Jan 16 18:59 : client: [22] command returned 0
+Jan 16 18:59 : client: [22] process command "currentsong"
+Jan 16 18:59 : client: [22] command returned 0
+Jan 16 18:59 : client: [22] process command "close"
+Jan 16 18:59 : client: [22] command returned 4
+Jan 16 18:59 : client: [22] closed
+Jan 16 18:59 : client: [23] opened from 127.0.0.1:45202
+Jan 16 18:59 : client: [23] process command "status"
+Jan 16 18:59 : client: [23] command returned 0
+Jan 16 18:59 : client: [23] process command "currentsong"
+Jan 16 18:59 : client: [23] command returned 0
+Jan 16 18:59 : client: [23] process command "close"
+Jan 16 18:59 : client: [23] command returned 4
+Jan 16 18:59 : client: [23] closed
+Jan 16 18:59 : state_file: Saving state file /home/corb/.config/mpd/state
+Jan 16 19:01 : event: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 19:01 : state_file: Loading state file /home/corb/.config/mpd/state
+Jan 16 19:01 : client: [0] opened from 127.0.0.1:45296
+Jan 16 19:01 : client: [0] process command "status"
+Jan 16 19:01 : client: [0] command returned 0
+Jan 16 19:01 : client: [0] process command "currentsong"
+Jan 16 19:01 : client: [0] command returned 0
+Jan 16 19:01 : client: [0] process command "close"
+Jan 16 19:01 : client: [0] command returned 4
+Jan 16 19:01 : client: [0] closed
+Jan 16 19:01 : client: [1] opened from 127.0.0.1:45298
+Jan 16 19:01 : client: [1] process command "status"
+Jan 16 19:01 : client: [1] command returned 0
+Jan 16 19:01 : client: [1] process command "currentsong"
+Jan 16 19:01 : client: [1] command returned 0
+Jan 16 19:01 : client: [1] process command "close"
+Jan 16 19:01 : client: [1] command returned 4
+Jan 16 19:01 : client: [1] closed
+Jan 16 19:01 : client: [2] opened from [::1]:57276
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "plchanges "0""
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "outputs"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "decoders"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "outputs"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "outputs"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [3] opened from 127.0.0.1:45300
+Jan 16 19:01 : client: [3] process command "status"
+Jan 16 19:01 : client: [3] command returned 0
+Jan 16 19:01 : client: [3] process command "currentsong"
+Jan 16 19:01 : client: [3] command returned 0
+Jan 16 19:01 : client: [3] process command "close"
+Jan 16 19:01 : client: [3] command returned 4
+Jan 16 19:01 : client: [3] closed
+Jan 16 19:01 : client: [2] process command "playid "7""
+Jan 16 19:01 : playlist: play 6:"Eternal.wav"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : playlist: queue song 7:"SteamGardens.wav"
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : decoder_thread: probing plugin sndfile
+Jan 16 19:01 : decoder: audio_format=48000:16:2, seekable=true
+Jan 16 19:01 : output: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : player: problems opening audio device while playing "Eternal.wav"
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [4] opened from 127.0.0.1:45302
+Jan 16 19:01 : client: [4] process command "status"
+Jan 16 19:01 : client: [4] command returned 0
+Jan 16 19:01 : client: [4] process command "currentsong"
+Jan 16 19:01 : client: [4] command returned 0
+Jan 16 19:01 : client: [4] process command "close"
+Jan 16 19:01 : client: [4] command returned 4
+Jan 16 19:01 : client: [4] closed
+Jan 16 19:01 : client: [5] opened from 127.0.0.1:45304
+Jan 16 19:01 : client: [5] process command "status"
+Jan 16 19:01 : client: [5] command returned 0
+Jan 16 19:01 : client: [5] process command "currentsong"
+Jan 16 19:01 : client: [5] command returned 0
+Jan 16 19:01 : client: [5] process command "close"
+Jan 16 19:01 : client: [5] command returned 4
+Jan 16 19:01 : client: [5] closed
+Jan 16 19:01 : client: [2] process command "playid "7""
+Jan 16 19:01 : playlist: play 6:"Eternal.wav"
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : playlist: queue song 7:"SteamGardens.wav"
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "pause"
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [6] opened from 127.0.0.1:45306
+Jan 16 19:01 : client: [6] process command "status"
+Jan 16 19:01 : client: [6] command returned 0
+Jan 16 19:01 : client: [6] process command "currentsong"
+Jan 16 19:01 : client: [6] command returned 0
+Jan 16 19:01 : client: [6] process command "close"
+Jan 16 19:01 : client: [6] command returned 4
+Jan 16 19:01 : client: [6] closed
+Jan 16 19:01 : client: [2] process command "playid "2""
+Jan 16 19:01 : playlist: play 1:"IChoseViolence.wav"
+Jan 16 19:01 : decoder_thread: probing plugin sndfile
+Jan 16 19:01 : decoder: audio_format=48000:16:2, seekable=true
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : playlist: queue song 2:"ShiftyBooMansion.wav"
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "playid "2""
+Jan 16 19:01 : playlist: play 1:"IChoseViolence.wav"
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : playlist: queue song 2:"ShiftyBooMansion.wav"
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [7] opened from 127.0.0.1:45308
+Jan 16 19:01 : client: [7] process command "status"
+Jan 16 19:01 : client: [7] command returned 0
+Jan 16 19:01 : client: [7] process command "currentsong"
+Jan 16 19:01 : client: [7] command returned 0
+Jan 16 19:01 : client: [7] process command "close"
+Jan 16 19:01 : client: [7] command returned 4
+Jan 16 19:01 : client: [7] closed
+Jan 16 19:01 : client: [8] opened from 127.0.0.1:45310
+Jan 16 19:01 : client: [8] process command "status"
+Jan 16 19:01 : client: [8] command returned 0
+Jan 16 19:01 : client: [8] process command "currentsong"
+Jan 16 19:01 : client: [8] command returned 0
+Jan 16 19:01 : client: [8] process command "close"
+Jan 16 19:01 : client: [8] command returned 4
+Jan 16 19:01 : client: [8] closed
+Jan 16 19:01 : client: [9] opened from 127.0.0.1:45314
+Jan 16 19:01 : client: [9] process command "status"
+Jan 16 19:01 : client: [9] command returned 0
+Jan 16 19:01 : client: [9] process command "currentsong"
+Jan 16 19:01 : client: [9] command returned 0
+Jan 16 19:01 : client: [9] process command "close"
+Jan 16 19:01 : client: [9] command returned 4
+Jan 16 19:01 : client: [9] closed
+Jan 16 19:01 : client: [2] process command "pause"
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [10] opened from 127.0.0.1:45316
+Jan 16 19:01 : client: [10] process command "status"
+Jan 16 19:01 : client: [10] command returned 0
+Jan 16 19:01 : client: [10] process command "currentsong"
+Jan 16 19:01 : client: [10] command returned 0
+Jan 16 19:01 : client: [10] process command "close"
+Jan 16 19:01 : client: [10] command returned 4
+Jan 16 19:01 : client: [10] closed
+Jan 16 19:01 : client: [2] process command "pause"
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "playid "2""
+Jan 16 19:01 : playlist: play 1:"IChoseViolence.wav"
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : playlist: queue song 2:"ShiftyBooMansion.wav"
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "playid "2""
+Jan 16 19:01 : playlist: play 1:"IChoseViolence.wav"
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : exception: Failed to open "a pulse device" (pulse); failed to connect: Connection refused
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : playlist: queue song 2:"ShiftyBooMansion.wav"
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [2] process command "status"
+Jan 16 19:01 : client: [2] command returned 0
+Jan 16 19:01 : client: [2] process command "idle"
+Jan 16 19:01 : client: [2] command returned 1
+Jan 16 19:01 : client: [11] opened from 127.0.0.1:45318
+Jan 16 19:01 : client: [11] process command "status"
+Jan 16 19:01 : client: [11] command returned 0
+Jan 16 19:01 : client: [11] process command "currentsong"
+Jan 16 19:01 : client: [11] command returned 0
+Jan 16 19:01 : client: [11] process command "close"
+Jan 16 19:01 : client: [11] command returned 4
+Jan 16 19:01 : client: [11] closed
+Jan 16 19:01 : client: [12] opened from 127.0.0.1:45320
+Jan 16 19:01 : client: [12] process command "status"
+Jan 16 19:01 : client: [12] command returned 0
+Jan 16 19:01 : client: [12] process command "currentsong"
+Jan 16 19:01 : client: [12] command returned 0
+Jan 16 19:01 : client: [12] process command "close"
+Jan 16 19:01 : client: [12] command returned 4
+Jan 16 19:01 : client: [12] closed
+Jan 16 19:01 : client: [13] opened from 127.0.0.1:45322
+Jan 16 19:01 : client: [13] process command "status"
+Jan 16 19:01 : client: [13] command returned 0
+Jan 16 19:01 : client: [13] process command "currentsong"
+Jan 16 19:01 : client: [13] command returned 0
+Jan 16 19:01 : client: [13] process command "close"
+Jan 16 19:01 : client: [13] command returned 4
+Jan 16 19:01 : client: [13] closed
+Jan 16 19:01 : client: [14] opened from 127.0.0.1:45324
+Jan 16 19:01 : client: [14] process command "status"
+Jan 16 19:01 : client: [14] command returned 0
+Jan 16 19:01 : client: [14] process command "currentsong"
+Jan 16 19:01 : client: [14] command returned 0
+Jan 16 19:01 : client: [14] process command "close"
+Jan 16 19:01 : client: [14] command returned 4
+Jan 16 19:01 : client: [14] closed
+Jan 16 19:01 : client: [15] opened from 127.0.0.1:45326
+Jan 16 19:01 : client: [15] process command "status"
+Jan 16 19:01 : client: [15] command returned 0
+Jan 16 19:01 : client: [15] process command "currentsong"
+Jan 16 19:01 : client: [15] command returned 0
+Jan 16 19:01 : client: [15] process command "close"
+Jan 16 19:01 : client: [15] command returned 4
+Jan 16 19:01 : client: [15] closed
+Jan 16 19:01 : client: [16] opened from 127.0.0.1:45328
+Jan 16 19:01 : client: [16] process command "status"
+Jan 16 19:01 : client: [16] command returned 0
+Jan 16 19:01 : client: [16] process command "currentsong"
+Jan 16 19:01 : client: [16] command returned 0
+Jan 16 19:01 : client: [16] process command "close"
+Jan 16 19:01 : client: [16] command returned 4
+Jan 16 19:01 : client: [16] closed
+Jan 16 19:01 : client: [17] opened from 127.0.0.1:45332
+Jan 16 19:01 : client: [17] process command "status"
+Jan 16 19:01 : client: [17] command returned 0
+Jan 16 19:01 : client: [17] process command "currentsong"
+Jan 16 19:01 : client: [17] command returned 0
+Jan 16 19:01 : client: [17] process command "close"
+Jan 16 19:01 : client: [17] command returned 4
+Jan 16 19:01 : client: [17] closed
+Jan 16 19:01 : client: [18] opened from 127.0.0.1:45334
+Jan 16 19:01 : client: [18] process command "status"
+Jan 16 19:01 : client: [18] command returned 0
+Jan 16 19:01 : client: [18] process command "currentsong"
+Jan 16 19:01 : client: [18] command returned 0
+Jan 16 19:01 : client: [18] process command "close"
+Jan 16 19:01 : client: [18] command returned 4
+Jan 16 19:01 : client: [18] closed
+Jan 16 19:01 : client: [19] opened from 127.0.0.1:45336
+Jan 16 19:01 : client: [19] process command "status"
+Jan 16 19:01 : client: [19] command returned 0
+Jan 16 19:01 : client: [19] process command "currentsong"
+Jan 16 19:01 : client: [19] command returned 0
+Jan 16 19:01 : client: [19] process command "close"
+Jan 16 19:01 : client: [19] command returned 4
+Jan 16 19:01 : client: [19] closed
+Jan 16 19:01 : client: [20] opened from 127.0.0.1:45338
+Jan 16 19:01 : client: [20] process command "status"
+Jan 16 19:01 : client: [20] command returned 0
+Jan 16 19:01 : client: [20] process command "currentsong"
+Jan 16 19:01 : client: [20] command returned 0
+Jan 16 19:01 : client: [20] process command "close"
+Jan 16 19:01 : client: [20] command returned 4
+Jan 16 19:01 : client: [20] closed
+Jan 16 19:01 : client: [21] opened from 127.0.0.1:45340
+Jan 16 19:01 : client: [21] process command "status"
+Jan 16 19:01 : client: [21] command returned 0
+Jan 16 19:01 : client: [21] process command "currentsong"
+Jan 16 19:01 : client: [21] command returned 0
+Jan 16 19:01 : client: [21] process command "close"
+Jan 16 19:01 : client: [21] command returned 4
+Jan 16 19:01 : client: [21] closed
+Jan 16 19:01 : client: [22] opened from 127.0.0.1:45342
+Jan 16 19:01 : client: [22] process command "status"
+Jan 16 19:01 : client: [22] command returned 0
+Jan 16 19:01 : client: [22] process command "currentsong"
+Jan 16 19:01 : client: [22] command returned 0
+Jan 16 19:01 : client: [22] process command "close"
+Jan 16 19:01 : client: [22] command returned 4
+Jan 16 19:01 : client: [22] closed
+Jan 16 19:01 : client: [23] opened from 127.0.0.1:45344
+Jan 16 19:01 : client: [23] process command "status"
+Jan 16 19:01 : client: [23] command returned 0
+Jan 16 19:01 : client: [23] process command "currentsong"
+Jan 16 19:01 : client: [23] command returned 0
+Jan 16 19:01 : client: [23] process command "close"
+Jan 16 19:01 : client: [23] command returned 4
+Jan 16 19:01 : client: [23] closed
+Jan 16 19:01 : client: [2] closed
+Jan 16 19:01 : client: [24] opened from 127.0.0.1:45348
+Jan 16 19:01 : client: [24] process command "status"
+Jan 16 19:01 : client: [24] command returned 0
+Jan 16 19:01 : client: [24] process command "currentsong"
+Jan 16 19:01 : client: [24] command returned 0
+Jan 16 19:01 : client: [24] process command "close"
+Jan 16 19:01 : client: [24] command returned 4
+Jan 16 19:01 : client: [24] closed
+Jan 16 19:01 : state_file: Saving state file /home/corb/.config/mpd/state
+Jan 16 19:01 : player: played "IChoseViolence.wav"
+Jan 16 19:01 : state_file: Loading state file /home/corb/.config/mpd/state
+Jan 16 19:01 : event: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 19:01 : playlist: play 1:"IChoseViolence.wav"
+Jan 16 19:01 : output: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 19:01 : decoder_thread: probing plugin sndfile
+Jan 16 19:01 : decoder: audio_format=48000:16:2, seekable=true
+Jan 16 19:01 : playlist: queue song 2:"ShiftyBooMansion.wav"
+Jan 16 19:02 : client: [0] opened from 127.0.0.1:45358
+Jan 16 19:02 : client: [0] process command "status"
+Jan 16 19:02 : client: [0] command returned 0
+Jan 16 19:02 : client: [0] process command "currentsong"
+Jan 16 19:02 : client: [0] command returned 0
+Jan 16 19:02 : client: [0] process command "close"
+Jan 16 19:02 : client: [0] command returned 4
+Jan 16 19:02 : client: [0] closed
+Jan 16 19:02 : client: [1] opened from 127.0.0.1:45360
+Jan 16 19:02 : client: [1] process command "status"
+Jan 16 19:02 : client: [1] command returned 0
+Jan 16 19:02 : client: [1] process command "currentsong"
+Jan 16 19:02 : client: [1] command returned 0
+Jan 16 19:02 : client: [1] process command "close"
+Jan 16 19:02 : client: [1] command returned 4
+Jan 16 19:02 : client: [1] closed
+Jan 16 19:02 : client: [2] opened from 127.0.0.1:45362
+Jan 16 19:02 : client: [2] process command "status"
+Jan 16 19:02 : client: [2] command returned 0
+Jan 16 19:02 : client: [2] process command "currentsong"
+Jan 16 19:02 : client: [2] command returned 0
+Jan 16 19:02 : client: [2] process command "close"
+Jan 16 19:02 : client: [2] command returned 4
+Jan 16 19:02 : client: [2] closed
+Jan 16 19:02 : client: [3] opened from 127.0.0.1:45364
+Jan 16 19:02 : client: [3] process command "status"
+Jan 16 19:02 : client: [3] command returned 0
+Jan 16 19:02 : client: [3] process command "currentsong"
+Jan 16 19:02 : client: [3] command returned 0
+Jan 16 19:02 : client: [3] process command "close"
+Jan 16 19:02 : client: [3] command returned 4
+Jan 16 19:02 : client: [3] closed
+Jan 16 19:02 : client: [4] opened from [::1]:57278
+Jan 16 19:02 : client: [4] process command "status"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "plchanges "0""
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "outputs"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "decoders"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "outputs"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "outputs"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [5] opened from 127.0.0.1:45366
+Jan 16 19:02 : client: [5] process command "status"
+Jan 16 19:02 : client: [5] command returned 0
+Jan 16 19:02 : client: [5] process command "currentsong"
+Jan 16 19:02 : client: [5] command returned 0
+Jan 16 19:02 : client: [5] process command "close"
+Jan 16 19:02 : client: [5] command returned 4
+Jan 16 19:02 : client: [5] closed
+Jan 16 19:02 : client: [4] process command "playid "2""
+Jan 16 19:02 : playlist: play 1:"IChoseViolence.wav"
+Jan 16 19:02 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 16 19:02 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : playlist: queue song 2:"ShiftyBooMansion.wav"
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [4] process command "status"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [6] opened from 127.0.0.1:45368
+Jan 16 19:02 : client: [6] process command "status"
+Jan 16 19:02 : client: [6] command returned 0
+Jan 16 19:02 : client: [6] process command "currentsong"
+Jan 16 19:02 : client: [6] command returned 0
+Jan 16 19:02 : client: [6] process command "close"
+Jan 16 19:02 : client: [6] command returned 4
+Jan 16 19:02 : client: [6] closed
+Jan 16 19:02 : client: [4] process command "playid "1""
+Jan 16 19:02 : playlist: play 0:"DieAKing.wav"
+Jan 16 19:02 : decoder_thread: probing plugin sndfile
+Jan 16 19:02 : decoder: audio_format=48000:16:2, seekable=true
+Jan 16 19:02 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 16 19:02 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : playlist: queue song 1:"IChoseViolence.wav"
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [4] process command "status"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [4] process command "playid "1""
+Jan 16 19:02 : playlist: play 0:"DieAKing.wav"
+Jan 16 19:02 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 16 19:02 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : playlist: queue song 1:"IChoseViolence.wav"
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [4] process command "status"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [4] process command "playid "1""
+Jan 16 19:02 : playlist: play 0:"DieAKing.wav"
+Jan 16 19:02 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 16 19:02 : exception: Failed to open "My PULSE Device" (pulse); failed to connect: Connection refused
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : playlist: queue song 1:"IChoseViolence.wav"
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [4] process command "status"
+Jan 16 19:02 : client: [4] command returned 0
+Jan 16 19:02 : client: [4] process command "idle"
+Jan 16 19:02 : client: [4] command returned 1
+Jan 16 19:02 : client: [7] opened from 127.0.0.1:45370
+Jan 16 19:02 : client: [7] process command "status"
+Jan 16 19:02 : client: [7] command returned 0
+Jan 16 19:02 : client: [7] process command "currentsong"
+Jan 16 19:02 : client: [7] command returned 0
+Jan 16 19:02 : client: [7] process command "close"
+Jan 16 19:02 : client: [7] command returned 4
+Jan 16 19:02 : client: [7] closed
+Jan 16 19:02 : client: [8] opened from 127.0.0.1:45372
+Jan 16 19:02 : client: [8] process command "status"
+Jan 16 19:02 : client: [8] command returned 0
+Jan 16 19:02 : client: [8] process command "currentsong"
+Jan 16 19:02 : client: [8] command returned 0
+Jan 16 19:02 : client: [8] process command "close"
+Jan 16 19:02 : client: [8] command returned 4
+Jan 16 19:02 : client: [8] closed
+Jan 16 19:02 : client: [9] opened from 127.0.0.1:45374
+Jan 16 19:02 : client: [9] process command "status"
+Jan 16 19:02 : client: [9] command returned 0
+Jan 16 19:02 : client: [9] process command "currentsong"
+Jan 16 19:02 : client: [9] command returned 0
+Jan 16 19:02 : client: [9] process command "close"
+Jan 16 19:02 : client: [9] command returned 4
+Jan 16 19:02 : client: [9] closed
+Jan 16 19:02 : client: [10] opened from 127.0.0.1:45376
+Jan 16 19:02 : client: [10] process command "status"
+Jan 16 19:02 : client: [10] command returned 0
+Jan 16 19:02 : client: [10] process command "currentsong"
+Jan 16 19:02 : client: [10] command returned 0
+Jan 16 19:02 : client: [10] process command "close"
+Jan 16 19:02 : client: [10] command returned 4
+Jan 16 19:02 : client: [10] closed
+Jan 16 19:02 : client: [11] opened from 127.0.0.1:45378
+Jan 16 19:02 : client: [11] process command "status"
+Jan 16 19:02 : client: [11] command returned 0
+Jan 16 19:02 : client: [11] process command "currentsong"
+Jan 16 19:02 : client: [11] command returned 0
+Jan 16 19:02 : client: [11] process command "close"
+Jan 16 19:02 : client: [11] command returned 4
+Jan 16 19:02 : client: [11] closed
+Jan 16 19:02 : client: [4] closed
+Jan 16 19:02 : client: [12] opened from 127.0.0.1:45380
+Jan 16 19:02 : client: [12] process command "status"
+Jan 16 19:02 : client: [12] command returned 0
+Jan 16 19:02 : client: [12] process command "currentsong"
+Jan 16 19:02 : client: [12] command returned 0
+Jan 16 19:02 : client: [12] process command "close"
+Jan 16 19:02 : client: [12] command returned 4
+Jan 16 19:02 : client: [12] closed
+Jan 16 19:02 : client: [13] opened from 127.0.0.1:45382
+Jan 16 19:02 : client: [13] process command "status"
+Jan 16 19:02 : client: [13] command returned 0
+Jan 16 19:02 : client: [13] process command "currentsong"
+Jan 16 19:02 : client: [13] command returned 0
+Jan 16 19:02 : client: [13] process command "close"
+Jan 16 19:02 : client: [13] command returned 4
+Jan 16 19:02 : client: [13] closed
+Jan 16 19:02 : state_file: Saving state file /home/corb/.config/mpd/state
+Jan 16 19:02 : player: played "DieAKing.wav"
+Jan 16 19:02 : player: played "DieAKing.wav"
+Jan 16 19:02 : state_file: Loading state file /home/corb/.config/mpd/state
+Jan 16 19:02 : event: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 19:02 : playlist: play 0:"DieAKing.wav"
+Jan 16 19:02 : output: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 19:02 : playlist: queue song 1:"IChoseViolence.wav"
+Jan 16 19:02 : decoder_thread: probing plugin sndfile
+Jan 16 19:02 : decoder: audio_format=48000:16:2, seekable=true
+Jan 16 19:03 : client: [0] opened from 127.0.0.1:45420
+Jan 16 19:03 : client: [0] process command "status"
+Jan 16 19:03 : client: [0] command returned 0
+Jan 16 19:03 : client: [0] process command "currentsong"
+Jan 16 19:03 : client: [0] command returned 0
+Jan 16 19:03 : client: [0] process command "close"
+Jan 16 19:03 : client: [0] command returned 4
+Jan 16 19:03 : client: [0] closed
+Jan 16 19:03 : client: [1] opened from 127.0.0.1:45422
+Jan 16 19:03 : client: [1] process command "status"
+Jan 16 19:03 : client: [1] command returned 0
+Jan 16 19:03 : client: [1] process command "currentsong"
+Jan 16 19:03 : client: [1] command returned 0
+Jan 16 19:03 : client: [1] process command "close"
+Jan 16 19:03 : client: [1] command returned 4
+Jan 16 19:03 : client: [1] closed
+Jan 16 19:03 : client: [2] opened from 127.0.0.1:45424
+Jan 16 19:03 : client: [2] process command "status"
+Jan 16 19:03 : client: [2] command returned 0
+Jan 16 19:03 : client: [2] process command "currentsong"
+Jan 16 19:03 : client: [2] command returned 0
+Jan 16 19:03 : client: [2] process command "close"
+Jan 16 19:03 : client: [2] command returned 4
+Jan 16 19:03 : client: [2] closed
+Jan 16 19:03 : client: [3] opened from 127.0.0.1:45428
+Jan 16 19:03 : client: [3] process command "status"
+Jan 16 19:03 : client: [3] command returned 0
+Jan 16 19:03 : client: [3] process command "currentsong"
+Jan 16 19:03 : client: [3] command returned 0
+Jan 16 19:03 : client: [3] process command "close"
+Jan 16 19:03 : client: [3] command returned 4
+Jan 16 19:03 : client: [3] closed
+Jan 16 19:03 : client: [4] opened from 127.0.0.1:45430
+Jan 16 19:03 : client: [4] process command "status"
+Jan 16 19:03 : client: [4] command returned 0
+Jan 16 19:03 : client: [4] process command "currentsong"
+Jan 16 19:03 : client: [4] command returned 0
+Jan 16 19:03 : client: [4] process command "close"
+Jan 16 19:03 : client: [4] command returned 4
+Jan 16 19:03 : client: [4] closed
+Jan 16 19:03 : client: [5] opened from 127.0.0.1:45432
+Jan 16 19:03 : client: [5] process command "status"
+Jan 16 19:03 : client: [5] command returned 0
+Jan 16 19:03 : client: [5] process command "currentsong"
+Jan 16 19:03 : client: [5] command returned 0
+Jan 16 19:03 : client: [5] process command "close"
+Jan 16 19:03 : client: [5] command returned 4
+Jan 16 19:03 : client: [5] closed
+Jan 16 19:03 : client: [6] opened from 127.0.0.1:45434
+Jan 16 19:03 : client: [6] process command "status"
+Jan 16 19:03 : client: [6] command returned 0
+Jan 16 19:03 : client: [6] process command "currentsong"
+Jan 16 19:03 : client: [6] command returned 0
+Jan 16 19:03 : client: [6] process command "close"
+Jan 16 19:03 : client: [6] command returned 4
+Jan 16 19:03 : client: [6] closed
+Jan 16 19:03 : client: [7] opened from 127.0.0.1:45438
+Jan 16 19:03 : client: [7] process command "status"
+Jan 16 19:03 : client: [7] command returned 0
+Jan 16 19:03 : client: [7] process command "currentsong"
+Jan 16 19:03 : client: [7] command returned 0
+Jan 16 19:03 : client: [7] process command "close"
+Jan 16 19:03 : client: [7] command returned 4
+Jan 16 19:03 : client: [7] closed
+Jan 16 19:03 : client: [8] opened from 127.0.0.1:45440
+Jan 16 19:03 : client: [8] process command "status"
+Jan 16 19:03 : client: [8] command returned 0
+Jan 16 19:03 : client: [8] process command "currentsong"
+Jan 16 19:03 : client: [8] command returned 0
+Jan 16 19:03 : client: [8] process command "close"
+Jan 16 19:03 : client: [8] command returned 4
+Jan 16 19:03 : client: [8] closed
+Jan 16 19:03 : client: [9] opened from [::1]:57280
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "plchanges "0""
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "outputs"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "decoders"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "outputs"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "outputs"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [10] opened from 127.0.0.1:45442
+Jan 16 19:03 : client: [10] process command "status"
+Jan 16 19:03 : client: [10] command returned 0
+Jan 16 19:03 : client: [10] process command "currentsong"
+Jan 16 19:03 : client: [10] command returned 0
+Jan 16 19:03 : client: [10] process command "close"
+Jan 16 19:03 : client: [10] command returned 4
+Jan 16 19:03 : client: [10] closed
+Jan 16 19:03 : client: [9] process command "playid "2""
+Jan 16 19:03 : playlist: play 1:"IChoseViolence.wav"
+Jan 16 19:03 : decoder_thread: probing plugin sndfile
+Jan 16 19:03 : decoder: audio_format=48000:16:2, seekable=true
+Jan 16 19:03 : alsa_output: opened default type=PLUG
+Jan 16 19:03 : alsa_output: buffer: size=2048..16384 time=42666..341334
+Jan 16 19:03 : alsa_output: period: size=1024..1024 time=21333..21334
+Jan 16 19:03 : alsa_output: default period_time = buffer_time/4 = 341333/4 = 85333
+Jan 16 19:03 : alsa_output: format=S16_LE (Signed 16 bit Little Endian)
+Jan 16 19:03 : alsa_output: buffer_size=16384 period_size=1024
+Jan 16 19:03 : output: opened "default detected output" (alsa) audio_format=48000:16:2
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : playlist: queue song 2:"ShiftyBooMansion.wav"
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [11] opened from 127.0.0.1:45444
+Jan 16 19:03 : client: [11] process command "status"
+Jan 16 19:03 : client: [11] command returned 0
+Jan 16 19:03 : client: [11] process command "currentsong"
+Jan 16 19:03 : client: [11] command returned 0
+Jan 16 19:03 : client: [11] process command "close"
+Jan 16 19:03 : client: [11] command returned 4
+Jan 16 19:03 : client: [11] closed
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [12] opened from 127.0.0.1:45446
+Jan 16 19:03 : client: [12] process command "status"
+Jan 16 19:03 : client: [12] command returned 0
+Jan 16 19:03 : client: [12] process command "currentsong"
+Jan 16 19:03 : client: [12] command returned 0
+Jan 16 19:03 : client: [12] process command "close"
+Jan 16 19:03 : client: [12] command returned 4
+Jan 16 19:03 : client: [12] closed
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [13] opened from 127.0.0.1:45448
+Jan 16 19:03 : client: [13] process command "status"
+Jan 16 19:03 : client: [13] command returned 0
+Jan 16 19:03 : client: [13] process command "currentsong"
+Jan 16 19:03 : client: [13] command returned 0
+Jan 16 19:03 : client: [13] process command "close"
+Jan 16 19:03 : client: [13] command returned 4
+Jan 16 19:03 : client: [13] closed
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [14] opened from 127.0.0.1:45450
+Jan 16 19:03 : client: [14] process command "status"
+Jan 16 19:03 : client: [14] command returned 0
+Jan 16 19:03 : client: [14] process command "currentsong"
+Jan 16 19:03 : client: [14] command returned 0
+Jan 16 19:03 : client: [14] process command "close"
+Jan 16 19:03 : client: [14] command returned 4
+Jan 16 19:03 : client: [14] closed
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [9] process command "status"
+Jan 16 19:03 : client: [9] command returned 0
+Jan 16 19:03 : client: [9] process command "idle"
+Jan 16 19:03 : client: [9] command returned 1
+Jan 16 19:03 : client: [9] closed
+Jan 16 19:03 : client: [15] opened from 127.0.0.1:45452
+Jan 16 19:03 : client: [15] process command "status"
+Jan 16 19:03 : client: [15] command returned 0
+Jan 16 19:03 : client: [15] process command "currentsong"
+Jan 16 19:03 : client: [15] command returned 0
+Jan 16 19:03 : client: [15] process command "close"
+Jan 16 19:03 : client: [15] command returned 4
+Jan 16 19:03 : client: [15] closed
+Jan 16 19:03 : client: [16] opened from 127.0.0.1:45454
+Jan 16 19:03 : client: [16] process command "status"
+Jan 16 19:03 : client: [16] command returned 0
+Jan 16 19:03 : client: [16] process command "currentsong"
+Jan 16 19:03 : client: [16] command returned 0
+Jan 16 19:03 : client: [16] process command "close"
+Jan 16 19:03 : client: [16] command returned 4
+Jan 16 19:03 : client: [16] closed
+Jan 16 19:03 : state_file: Saving state file /home/corb/.config/mpd/state
+Jan 16 19:03 : player: played "IChoseViolence.wav"
+Jan 16 19:03 : output: closed "default detected output" (alsa)
+Jan 16 19:03 : event: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 19:03 : state_file: Loading state file /home/corb/.config/mpd/state
+Jan 16 19:03 : playlist: queue song 2:"ShiftyBooMansion.wav"
+Jan 16 19:03 : output: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 19:03 : decoder_thread: probing plugin sndfile
+Jan 16 19:03 : decoder: audio_format=48000:16:2, seekable=true
+Jan 16 19:03 : alsa_output: opened default type=PLUG
+Jan 16 19:03 : alsa_output: buffer: size=2048..16384 time=42666..341334
+Jan 16 19:03 : alsa_output: period: size=1024..1024 time=21333..21334
+Jan 16 19:03 : alsa_output: default period_time = buffer_time/4 = 341333/4 = 85333
+Jan 16 19:03 : alsa_output: format=S16_LE (Signed 16 bit Little Endian)
+Jan 16 19:03 : alsa_output: buffer_size=16384 period_size=1024
+Jan 16 19:03 : output: opened "default detected output" (alsa) audio_format=48000:16:2
+Jan 16 19:03 : client: [0] opened from 127.0.0.1:45458
+Jan 16 19:03 : client: [0] process command "status"
+Jan 16 19:03 : client: [0] command returned 0
+Jan 16 19:03 : client: [0] process command "currentsong"
+Jan 16 19:03 : client: [0] command returned 0
+Jan 16 19:03 : client: [0] process command "close"
+Jan 16 19:03 : client: [0] command returned 4
+Jan 16 19:03 : client: [0] closed
+Jan 16 19:03 : client: [1] opened from 127.0.0.1:45460
+Jan 16 19:03 : client: [1] process command "status"
+Jan 16 19:03 : client: [1] command returned 0
+Jan 16 19:03 : client: [1] process command "currentsong"
+Jan 16 19:03 : client: [1] command returned 0
+Jan 16 19:03 : client: [1] process command "close"
+Jan 16 19:03 : client: [1] command returned 4
+Jan 16 19:03 : client: [1] closed
+Jan 16 19:03 : state_file: Saving state file /home/corb/.config/mpd/state
+Jan 16 19:03 : player: played "IChoseViolence.wav"
+Jan 16 19:03 : output: closed "default detected output" (alsa)
+Jan 16 19:03 : player: played "IChoseViolence.wav"
+Jan 16 19:04 : config: option 'server' on line 18 was not recognized
+Jan 16 19:04 : player: played "IChoseViolence.wav"
+Jan 16 19:04 : config: option 'server' on line 18 was not recognized
+Jan 16 19:06 : player: played "IChoseViolence.wav"
+Jan 16 19:06 : player: played "ShiftyBooMansion.wav"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 16 19:08 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jan 16 19:12 : player: played "IChoseViolence.wav"
+Jan 16 19:12 : player: played "ShiftyBooMansion.wav"
+Jan 18 15:41 : config: option 'server' on line 18 was not recognized
+Jan 19 16:14 : config: option 'server' on line 18 was not recognized
+Jan 20 21:20 : config: option 'server' on line 18 was not recognized
+Jan 21 20:35 : config: option 'server' on line 18 was not recognized
+Jan 22 03:57 : config: option 'server' on line 18 was not recognized
+Jan 22 23:40 : config: option 'server' on line 18 was not recognized
+Jan 24 01:08 : config: option 'server' on line 18 was not recognized
+Jan 25 04:32 : config: option 'server' on line 18 was not recognized
+Jan 26 04:13 : config: option 'server' on line 18 was not recognized
+Jan 26 05:25 : config: option 'server' on line 18 was not recognized
+Jan 27 08:54 : config: option 'server' on line 18 was not recognized
+Jan 27 10:55 : config: option 'server' on line 18 was not recognized
+Jan 28 10:26 : config: option 'server' on line 18 was not recognized

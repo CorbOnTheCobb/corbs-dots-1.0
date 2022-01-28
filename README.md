@@ -1,5 +1,5 @@
 ![2022-01-28-155101_2560x1080_scrot](https://user-images.githubusercontent.com/98620032/151626838-48b43f48-6210-443a-b71f-83107b188fdf.png)
-# THE WIBAR IS CONFIGURED FOR ULTRAWIDE MONITORS BY DEFAULT- YOU WILL WANT TO CHANGE THE WIDTH FROM 2530 TO 1850 FOR A 1920x1080 MONITOR
+# THE WIBAR IS CONFIGURED FOR ULTRAWIDE MONITORS BY DEFAULT- YOU WILL WANT TO CHANGE THE WIDTH IN THE theme.lua FILE FROM 2530 TO 1850 FOR A 1920x1080 MONITOR
 
 # corbs-dots-1.0
 This is just a repository for my messy mashup of dotfiles that I've either wrote myself or snagged from other people. Do with it what you like :]

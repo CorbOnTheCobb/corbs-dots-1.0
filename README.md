@@ -7,3 +7,5 @@ This is just a repository for my messy mashup of dotfiles that I've either wrote
 # REQUIREMENTS
 You're going to need picom-git, scrot nm-applet, pa-applet-git, ttf-jetbrains-mono, ttf-font-awesome, ttf-nerd-fonts-symbols, and lain-git for these dotfiles to work as intended.
 Optionally, I do recommend having a matching gruvbox gtk theme to pair with these dotfiles.
+
+Also, if you'd like to use the custom zsh theme, you will need oh-my-zsh installed.

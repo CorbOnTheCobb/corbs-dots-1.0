@@ -16,7 +16,7 @@ local my_table = awful.util.table or gears.table -- 4.{0,1} compatibility
 
 local theme                                     = {}
 theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/corbtheme"
-theme.wallpaper                                 = "~/.config/awesome/themes/corbtheme/wallpaper"
+theme.wallpaper                                 = "~/.config/awesome/themes/corbtheme/wallpaper4.jpg"
 theme.font                                      = "Jetbrains Mono 11"
 theme.fg_normal                                 = "#414868"
 theme.fg_focus                                  = "#fefefe"

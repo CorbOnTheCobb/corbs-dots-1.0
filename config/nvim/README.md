@@ -1,6 +1,7 @@
 # NightVIm
 
-This is a Neovim config that I have built myself. I plan on adding to it in the future. 
+THIS WAS NOT MADE BY ME- I JUST USE THIS FOR MY CONFIG 
+Everything added past this point in this readme was not written by me either.
 
 ## Prerequisets
 

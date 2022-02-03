@@ -11,5 +11,5 @@ Also, if you'd like to use the custom zsh theme, you will need oh-my-zsh install
 
 # RECENT CHANGES
 Added a new theme called, "Tokyo" 
-#
+
 Added my qutebrowser config

@@ -3,6 +3,8 @@
 # corbs-dots-1.1
 This is just a repository for my messy mashup of dotfiles that I've either wrote myself or snagged from other people. Do with it what you like :]
 
+These dotfiles are made with the intention of being easy on the eyes while still being colorful and keyboard-driven.
+
 # REQUIREMENTS
 You're going to need kitty, rofi, picom-git, scrot nm-applet, pa-applet-git, ttf-jetbrains-mono, ttf-font-awesome, ttf-nerd-fonts-symbols, and lain-git for these dotfiles to work as intended.
 Optionally, I do recommend having a matching gruvbox gtk theme to pair with these dotfiles.

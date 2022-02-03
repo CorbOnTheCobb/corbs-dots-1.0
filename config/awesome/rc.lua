@@ -85,7 +85,8 @@ awful.spawn.with_shell(
 -- {{{ Variable definitions
 
 local themes = {
-    "corbtheme",       -- 11
+    "corbtheme",       -- 1
+    "Tokyo",           -- 2
 }
 
 local chosen_theme = themes[1]

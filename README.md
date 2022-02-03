@@ -10,5 +10,6 @@ Optionally, I do recommend having a matching gruvbox gtk theme to pair with thes
 Also, if you'd like to use the custom zsh theme, you will need oh-my-zsh installed.
 
 # RECENT CHANGES
-Added a new theme called, "Tokyo"
+Added a new theme called, "Tokyo" 
+#
 Added my qutebrowser config

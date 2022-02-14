@@ -287,7 +287,7 @@ local battery = wibox.widget {
         right   = 5,
         widget  = wibox.container.margin,
     },
-    bg          = theme.red,
+    bg          = theme.cyan,
     fg          = theme.white,
     shape       = function(cr, width, height) gears.shape.rounded_rect(cr, width, height, 15) end,
     shape_clip  = true,
@@ -444,7 +444,7 @@ local taglist = wibox.widget {
     position = "top", 
     screen = s, 
     height = dpi(25),
-    width = 2575,
+    --width = 2575,
     bg = "#414868",
     fg = theme.fg_normal,
     opacity = 1.0,
@@ -465,8 +465,7 @@ local taglist = wibox.widget {
             spr,
             taglist,
             s.mypromptbox,
-            spr,
-           -- battery,
+            spr, 
         },
 
         --spr,
@@ -483,6 +482,10 @@ local taglist = wibox.widget {
             spr,
             clock,
             spr,
+            --UNCOMMENT THE TWO LINES BELOW THIS TO ADD A BATTERY WIDGET
+            --battery,
+            --spr,
+            
             --spr,
             --layoutbox,
             --spr,

@@ -100,6 +100,7 @@ theme.yellow  = "#d79921"--"#e0af68"
 theme.blue    = "#458588"--"#7aa2f7"
 theme.magenta = "#b16286"--"#bb9af7"
 theme.cyan    = "#689d6a"--"#7dcfff"
+theme.white   = "#dedede"
 
 local markup = lain.util.markup
 local separators = lain.util.separators

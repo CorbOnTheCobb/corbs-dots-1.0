@@ -264,19 +264,34 @@ local bat = lain.widget.bat({
             if bat_now.ac_status == 1 then
                 baticon:set_image(theme.widget_ac)
             elseif not bat_now.perc and tonumber(bat_now.perc) <= 5 then
-                baticon:set_image(theme.widget_battery_empty)
+                widget:set_markup(markup.font(theme.font, "  " .. bat_now.perc .. "% "))
             elseif not bat_now.perc and tonumber(bat_now.perc) <= 15 then
-                baticon:set_image(theme.widget_battery_low)
+                widget:set_markup(markup.font(theme.font, "  " .. bat_now.perc .. "% "))
             else
-                baticon:set_image(theme.widget_battery)
+                widget:set_markup(markup.font(theme.font, "  " .. bat_now.perc .. "% "))
             end
-            widget:set_markup(markup.font(theme.font, " " .. bat_now.perc .. "% "))
         else
             widget:set_markup(markup.font(theme.font, " AC "))
             baticon:set_image(theme.widget_ac)
         end
     end
 })
+
+local battery = wibox.widget {
+    {
+        bat,
+        left    = 5,
+        top     = 2,
+        bottom  = 3,
+        right   = 5,
+        widget  = wibox.container.margin,
+    },
+    bg          = theme.cyan,
+    fg          = theme.white,
+    shape       = function(cr, width, height) gears.shape.rounded_rect(cr, width, height, 15) end,
+    shape_clip  = true,
+    widget      = wibox.container.background,
+}
 
 -- ALSA volume
 local volicon = wibox.widget.imagebox(theme.widget_vol)
@@ -466,6 +481,8 @@ local taglist = wibox.widget {
             spr,
             clock,
             spr,
+            --battery
+            --spr
             spr,
             --layoutbox,
             --spr,

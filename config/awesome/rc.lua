@@ -840,13 +840,7 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 -- }}}
 
 -- Autostart Applications
---awful.spawn.with_shell("killall pa-applet")
 awful.spawn.with_shell("picom")
-awful.spawn.with_shell("sudo g910-led -a 0022ff")
-awful.spawn.with_shell("pavucontrol")
-awful.spawn.with_shell("killall pavucontrol")
---awful.spawn.with_shell("pa-applet")
---awful.spawn.with_shell("nm-applet")
 
 beautiful.useless_gap = 10
 

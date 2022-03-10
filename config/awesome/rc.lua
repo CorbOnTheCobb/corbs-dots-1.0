@@ -18,6 +18,7 @@ local wibox         = require("wibox")
 local beautiful     = require("beautiful")
 local naughty       = require("naughty")
 local lain          = require("lain")
+local net_widgets   = require("net_widgets")
 --local menubar       = require("menubar")
 local freedesktop   = require("freedesktop")
 local hotkeys_popup = require("awful.hotkeys_popup")
@@ -85,12 +86,13 @@ awful.spawn.with_shell(
 -- {{{ Variable definitions
 
 local themes = {
-    "corbtheme",       -- 1
+    "Forest",          -- 1
     "Tokyo",           -- 2
     "Complex",         -- 3
+    "Ditto",         -- 4
 }
 
-local chosen_theme = themes[1]
+local chosen_theme = themes[4]
 local modkey       = "Mod4"
 local altkey       = "Mod1"
 local terminal     = "kitty"
@@ -542,7 +544,7 @@ globalkeys = mytable.join(
     -- alternatively use rofi, a dmenu-like application with more features
     -- check https://github.com/DaveDavenport/rofi for more details
     -- rofi
-    awful.key({ modkey }, "p", function ()
+    awful.key({ modkey }, "d", function ()
             os.execute(string.format("rofi -show %s -theme %s",
             'run', 'dmenu'))
         end,
@@ -838,11 +840,13 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 -- }}}
 
 -- Autostart Applications
-awful.spawn.with_shell("killall pa-applet")
+--awful.spawn.with_shell("killall pa-applet")
 awful.spawn.with_shell("picom")
---awful.spawn.with_shell("nitrogen --restore")
-awful.spawn.with_shell("pa-applet")
-awful.spawn.with_shell("nm-applet")
+awful.spawn.with_shell("sudo g910-led -a 0022ff")
+awful.spawn.with_shell("pavucontrol")
+awful.spawn.with_shell("killall pavucontrol")
+--awful.spawn.with_shell("pa-applet")
+--awful.spawn.with_shell("nm-applet")
 
 beautiful.useless_gap = 10
 

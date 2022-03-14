@@ -11,26 +11,27 @@ local awful = require("awful")
 local wibox = require("wibox")
 local APW   = require("apw/widget")
 local dpi   = require("beautiful.xresources").apply_dpi
+--local widgets = require("awesome-wm-widgets")
 
 local awesome, client, os = awesome, client, os
 local my_table = awful.util.table or gears.table -- 4.{0,1} compatibility
 
 local theme                                     = {}
 theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/Ditto"
-theme.wallpaper                                 = theme.dir .. "/bestshinybubbies.png"
-theme.font                                      = "Jetbrains Mono 13"
-theme.fg_normal                                 = "#7aa2f7" --"#BBBBBB"
-theme.fg_focus                                  = "#7aa2f7"
-theme.bg_normal                                 = "#1a1b26"
-theme.bg_focus                                  = "#1a1b26"
+theme.wallpaper                                 = theme.dir .. "/bestshinybubbiesedit3.png"
+theme.font                                      = "Jetbrains Mono 14"
+theme.fg_normal                                 = "#7aa2ff" --"#BBBBBB"
+theme.fg_focus                                  = "#7aa2ff"
+theme.bg_normal                                 = "#282a36"--"#1a1b26"
+theme.bg_focus                                  = "#282a36"--"#282a36"--"#1a1b26"
 theme.fg_urgent                                 = "#000000"
 theme.bg_urgent                                 = "#FFFFFF"
 theme.border_width                              = dpi(0)
 theme.border_normal                             = "#141414"
 theme.border_focus                              = "#93B6FF"
 theme.taglist_fg_focus                          = "#FFFFFF"
-theme.taglist_bg_focus                          = "#1a1b26"
-theme.taglist_bg_normal                         = "#1a1b26"
+theme.taglist_bg_focus                          = "#DDDDFF00"--"#1a1b26"
+theme.taglist_bg_normal                         = "#DDDDFF00"--"#1a1b26"
 theme.titlebar_bg_normal                        = "#191919"
 theme.titlebar_bg_focus                         = "#262626"
 theme.menu_height                               = dpi(16)
@@ -235,10 +236,10 @@ local fsbg = wibox.container.background(fsbar, "#474747", gears.shape.rectangle)
 local fswidget = wibox.container.margin(fsbg, dpi(2), dpi(7), dpi(4), dpi(4))
 --]]
 
--- ALSA volume bar
+--[[ ALSA volume bar
 local volicon = wibox.widget.imagebox(theme.vol)
 theme.volume = lain.widget.alsabar {
-    width = dpi(59), border_width = 0, ticks = true, ticks_size = dpi(4),
+    width = dpi(60), border_width = 0, ticks = true, ticks_size = dpi(4),
     notification_preset = { font = theme.font },
     --togglechannel = "IEC958,3",
     settings = function()
@@ -258,6 +259,9 @@ theme.volume = lain.widget.alsabar {
         unmute       = theme.fg_normal
     }
 }
+--]]
+
+local volume_widget = require('awesome-wm-widgets.volume-widget.volume')
 
 -- Memory Widget
 local mem = lain.widget.mem({settings = function() widget:set_markup(markup.font(theme.font, "  " .. mem_now.used .. "MB ")) end})
@@ -272,7 +276,7 @@ local temp = lain.widget.temp({
     end
 })
 
-theme.volume.tooltip.wibox.fg = theme.fg_focus
+--[[theme.volume.tooltip.wibox.fg = theme.fg_focus
 theme.volume.bar:buttons(my_table.join (
           awful.button({}, 1, function()
             awful.spawn(string.format("%s -e alsamixer", awful.util.terminal))
@@ -296,7 +300,7 @@ theme.volume.bar:buttons(my_table.join (
 ))
 local volumebg = wibox.container.background(theme.volume.bar, "#474747", gears.shape.rectangle)
 local volumewidget = wibox.container.margin(volumebg, dpi(2), dpi(7), dpi(4), dpi(4))
-
+--]]
 -- Weather
 --[[ to be set before use
 theme.weather = lain.widget.weather({
@@ -319,7 +323,7 @@ local spr       = wibox.widget.textbox(' ')
 local small_spr = wibox.widget.textbox(markup.font("Terminus 4", " "))
 local bar_spr   = wibox.widget.textbox(markup.font("Terminus 10", " ") .. markup.fontfg(theme.font, "#0077ff", " ") .. markup.font("Terminus 10", " "))
 local beeg_spr  = wibox.widget.textbox('                                ')
-local volsym    = wibox.widget.textbox(markup.font("Jetbrains Mono 13", '  '))
+local volsym    = wibox.widget.textbox(markup.font("Jetbrains Mono 15", '  '))
 
 -- Wireless Widget
 --net_wireless = net_widgets.wireless({interface="wlp1s0"})
@@ -336,7 +340,7 @@ local systray = wibox.widget {
     {
         wibox.widget.systray(),
         left    = 0,
-        top     = 3,
+        top     = 2,
         bottom  = 3,
         right   = 0,
         widget  = wibox.container.margin,
@@ -410,7 +414,7 @@ function theme.at_screen_connect(s)
     }
 
     -- Create the wibox
-    s.mywibox = awful.wibar({ position = "top", screen = s, height = dpi(30), bg = theme.bg_normal, fg = theme.fg_normal })
+    s.mywibox = awful.wibar({ position = "top", screen = s, height = dpi(36), bg = "#282a36BB", fg = theme.fg_normal })
 
     -- Add widgets to the wibox
     s.mywibox:setup {
@@ -457,7 +461,7 @@ function theme.at_screen_connect(s)
         --},
         { -- Right widgets 
             layout = wibox.layout.fixed.horizontal,
-            systray,
+            --systray,
             small_spr,
             --bar_spr,
             --net,
@@ -480,15 +484,19 @@ function theme.at_screen_connect(s)
             spr,
             spr,
             spr,
-            --volicon,
             volsym,
-            APW,
-            --volumewidget,
+            volume_widget{
+                widget_type = 'horizontal_bar',
+                device = 'pulse'
+            },
+            --APW,
             --bar_spr,
             --mytextclock,
             --spr,
             --bar_spr,
             --spr,
+            spr,
+            spr,
             spr,
         },
     }
